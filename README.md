@@ -1,1 +1,1 @@
-fun project using mediapipe to implement mouse actions as well as few handy keyboard shortcuts using a webcam which tracks the hand . Implements corresponding action for a gesture based on hand landmark tracking .
+fun project using mediapipe to implement mouse actions as well as few handy keyboard shortcuts using a webcam which tracks the hand . Implements corresponding action for a gesture based on hand landmark tracking . Actions are cursor control , drag and drop , clicking(both left and right clicks) , scrolling(up and down) , minimise selected tab .
